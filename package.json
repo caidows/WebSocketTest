@@ -1,0 +1,22 @@
+{
+  "name": "websocket",
+  "version": "0.0.0",
+  "description": "websocket test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:caidows/WebSocketTest.git"
+  },
+  "author": "caidows",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caidows/WebSocketTest/issues"
+  },
+  "homepage": "https://github.com/caidows/WebSocketTest",
+  "dependencies": {
+    "ws":"latest"
+  }
+}
